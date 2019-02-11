@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>588255617574-l40os0e96gmvlenr3hqq5gi7elirtea8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.588255617574-l40os0e96gmvlenr3hqq5gi7elirtea8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAEnUHS7ehkrqDSIIBoZfgTdQgEOxxfaec</string>
+	<key>GCM_SENDER_ID</key>
+	<string>588255617574</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.TwitterApp</string>
+	<key>PROJECT_ID</key>
+	<string>twitter-clone-bebfe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twitter-clone-bebfe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:588255617574:ios:47e4ed41df7097ca</string>
+	<key>DATABASE_URL</key>
+	<string>https://twitter-clone-bebfe.firebaseio.com</string>
+</dict>
+</plist>

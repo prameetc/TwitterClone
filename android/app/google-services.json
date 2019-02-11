@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "588255617574",
+    "firebase_url": "https://twitter-clone-bebfe.firebaseio.com",
+    "project_id": "twitter-clone-bebfe",
+    "storage_bucket": "twitter-clone-bebfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588255617574:android:1c1716396637b736",
+        "android_client_info": {
+          "package_name": "com.twitterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588255617574-saap85bg9llris2nq4doo8jtr3v5rahd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF9u0yzn2f2-_W9PMl8ZOXpiwwWzFEcIc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
